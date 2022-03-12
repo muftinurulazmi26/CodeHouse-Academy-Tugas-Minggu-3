@@ -1,0 +1,9 @@
+import 'package:flutter/material.dart';
+import 'package:photograpps/widgets/card_menu_account.dart';
+import 'package:photograpps/widgets/card_menu_other.dart';
+import 'package:photograpps/widgets/photo_card.dart';
+import 'package:photograpps/widgets/theme.dart';
+part 'home_page.dart';
+part 'register_page.dart';
+part 'login_page.dart';
+part 'profile_page.dart';
