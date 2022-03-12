@@ -2,10 +2,10 @@
 
 A new Flutter project.
 
-<img src="https://raw.githubusercontent.com/muftinurulazmi26/CodeHouse-Academy-Tugas-Minggu-3/blob/main/crud_data_pemain_futsal/screenshot/Screenshot_1647086108.png?raw=true" width="200" height="395">
-<img src="https://raw.githubusercontent.com/muftinurulazmi26/CodeHouse-Academy-Tugas-Minggu-3/blob/main/crud_data_pemain_futsal/screenshot/Screenshot_1647086308.png?raw=true" width="200" height="395">
-<img src="https://raw.githubusercontent.com/muftinurulazmi26/CodeHouse-Academy-Tugas-Minggu-3/blob/main/crud_data_pemain_futsal/screenshot/Screenshot_1647086313.png?raw=true" width="200" height="395">
-<img src="https://raw.githubusercontent.com/muftinurulazmi26/CodeHouse-Academy-Tugas-Minggu-3/blob/main/crud_data_pemain_futsal/screenshot/Screenshot_1647086318.png?raw=true" width="200" height="395">
+<img src="https://raw.githubusercontent.com/muftinurulazmi26/CodeHouse-Academy-Tugas-Minggu-3/main/crud_data_pemain_futsal/screenshot/Screenshot_1647086108.png" width="200" height="395">
+<img src="https://raw.githubusercontent.com/muftinurulazmi26/CodeHouse-Academy-Tugas-Minggu-3/main/crud_data_pemain_futsal/screenshot/Screenshot_1647086308.png" width="200" height="395">
+<img src="https://raw.githubusercontent.com/muftinurulazmi26/CodeHouse-Academy-Tugas-Minggu-3/main/crud_data_pemain_futsal/screenshot/Screenshot_1647086313.png" width="200" height="395">
+<img src="https://raw.githubusercontent.com/muftinurulazmi26/CodeHouse-Academy-Tugas-Minggu-3/main/crud_data_pemain_futsal/screenshot/Screenshot_1647086318.png" width="200" height="395">
 
 ## Getting Started
 
