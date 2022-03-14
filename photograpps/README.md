@@ -2,8 +2,8 @@
 
 A new Flutter project.
 
-<img src="https://raw.githubusercontent.com/muftinurulazmi26/CodeHouse-Academy-Tugas-Minggu-3/main/photograpps/screenshot/Screenshot_1647082810.png" width="200" height="395">
-<img src="https://raw.githubusercontent.com/muftinurulazmi26/CodeHouse-Academy-Tugas-Minggu-3/main/photograpps/screenshot/Screenshot_1647084136.png" width="200" height="395">
+<img src="https://raw.githubusercontent.com/muftinurulazmi26/CodeHouse-Academy-Tugas-Minggu-3/main/photograpps/screenshot/Screenshot_1647247634.png" width="200" height="395">
+<img src="https://raw.githubusercontent.com/muftinurulazmi26/CodeHouse-Academy-Tugas-Minggu-3/main/photograpps/screenshot/Screenshot_1647247612.png" width="200" height="395">
 <img src="https://raw.githubusercontent.com/muftinurulazmi26/CodeHouse-Academy-Tugas-Minggu-3/main/photograpps/screenshot/Screenshot_1647084152.png" width="200" height="395">
 <img src="https://raw.githubusercontent.com/muftinurulazmi26/CodeHouse-Academy-Tugas-Minggu-3/main/photograpps/screenshot/Screenshot_1647084157.png" width="200" height="395">
 
